@@ -1,1 +1,2 @@
 this is a new text file
+now this file is being modified
